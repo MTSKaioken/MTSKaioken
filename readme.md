@@ -1,4 +1,4 @@
-## Hello World! :earth_africa: :vulcan_salute:
+## Hello World! :earth_africa: :vulcan_salute: ![GitHub watchers](https://img.shields.io/github/watchers/MTSKaioken/MTSKaioken?color=red&label=Views&style=for-the-badge)
 
 Bem vindo ao meu github, meu nome é Kaio Ruan tenho 18 anos e sou apaixonado pelo aprendizado de novas tecnologias.
 
