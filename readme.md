@@ -1,7 +1,5 @@
 <p align="center">    
-
-![GitHub watchers](https://img.shields.io/github/watchers/MTSKaioken/MTSKaioken?color=red&label=Views&style=for-the-badge)
-
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/MTSKaioken/MTSKaioken?color=red&label=Views&style=for-the-badge">
 </p> 
 
 <img src="https://oms.systems/images/hello-world.jpg" alt="example badge" style="vertical-align:top margin:6px 4px">
