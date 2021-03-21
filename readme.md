@@ -3,14 +3,23 @@
 </p> 
 
 <img src="https://oms.systems/images/hello-world.jpg" alt="example badge" style="vertical-align:top margin:6px 4px">
-Meu nome é Kaio Ruan, tenho 18 anos e moro na zona leste da Capital de SP. Sou apaixonado pelo aprendizado de novas tecnologias.
+<h1 align="center">About me 🧑</h1>
+
+Meu nome é Kaio Ruan, tenho 18 anos e moro na zona leste da Capital de SP. Atualmente curso Ciência da Computação na UNIP e busco uma oportunidade de estágio independentente da tecnologia e/ou faixa salarial. Acima de tudo tenho vontade de aprender e me consolidar no mercado que tanto admiro e amo. 
+
+  Sou minucioso e tentarei apresentar os meus projetos seguindo:
+
+- Clean Code 
+- Identação correta
+- Design Patterns (ainda meio confuso)
+
+Conto com vocês que leram até aqui para me ajudar!
 
 <h1 align="center">My history with programation ✍️ 👨‍💻 </h1>
 
-Desde pequeno sempre me interessei por tecnologia. Foi em 2018 que iniciei meu curso técnico e tive o primeiro contato com a programação, e Para a minha sorte rolou o [Tchan](https://www.youtube.com/watch?v=KvqER_pOFd4).
+Eu sempre gostei de tecnologia em geral mas não fazia ideia de como começar, em 2018-2019 fiz um curso técnico no qual entrei em contato com a programação e vi algumas linguagens como Java que uma das que atualmente pretendo me aprofundar cada vez mais, e vbs e c# que não aprendi o suficiente para serem relevantes aqui. Mas cada uma das linguagens foram fundamentais para me fazer amadurecer e iniciar a faculdade na qual estou hoje.
 
-
-<h1 align="center">Tecnologias</h1>
+<h1 align="center">Tech</h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
