@@ -17,7 +17,9 @@ Conto com vocês que leram até aqui para me ajudar!
 
 <h1 align="center">My history with programation ✍️ 👨‍💻 </h1>
 
-Eu sempre gostei de tecnologia em geral mas não fazia ideia de como começar, em 2018-2019 fiz um curso técnico no qual entrei em contato com a programação e vi algumas linguagens como Java que uma das que atualmente pretendo me aprofundar cada vez mais, e vbs e c# que não aprendi o suficiente para serem relevantes aqui. Mas cada uma das linguagens foram fundamentais para me fazer amadurecer e iniciar a faculdade na qual estou hoje.
+Eu sempre gostei de tecnologia em geral mas não fazia ideia de como começar, em 2018-2019 fiz um curso técnico no qual entrei em contato com a programação. 
+
+Vi algumas linguagens como Java que é uma das que atualmente pretendo me aprofundar cada vez mais, vbs e c# que não aprendi o suficiente para serem relevantes aqui. Mas cada uma das linguagens foram fundamentais para me fazer iniciar a faculdade na qual estou hoje e amadurecer em todos os aspectos.
 
 <h1 align="center">Tech</h1>
 
@@ -29,7 +31,7 @@ Eu sempre gostei de tecnologia em geral mas não fazia ideia de como começar, e
 <img src="https://svgshare.com/i/VHG.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </p>
 
-<h1 align="center">Contato</h1>
+<h1 align="center">Talk to Me</h1>
 <p align="center">
  <a href="https://www.linkedin.com/in/mtskaioken/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
