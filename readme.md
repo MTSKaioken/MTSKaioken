@@ -5,7 +5,7 @@
 <img src="https://oms.systems/images/hello-world.jpg" alt="example badge" style="vertical-align:top margin:6px 4px">
 Meu nome é Kaio Ruan, tenho 18 anos e moro na zona leste da Capital de SP. Sou apaixonado pelo aprendizado de novas tecnologias.
 
-<h1>My history with programation ✍️ 👨‍💻 </h1>
+<h1 align="center">My history with programation ✍️ 👨‍💻 </h1>
 
 Desde pequeno sempre me interessei por tecnologia. Foi em 2018 que iniciei meu curso técnico e tive o primeiro contato com a programação, e Para a minha sorte rolou o [Tchan](https://www.youtube.com/watch?v=KvqER_pOFd4).
 
