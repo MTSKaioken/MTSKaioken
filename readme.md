@@ -5,13 +5,7 @@
 <img src="https://oms.systems/images/hello-world.jpg" alt="example badge" style="vertical-align:top margin:6px 4px">
 <h1 align="center">About me 🧑</h1>
 
-Meu nome é Kaio Ruan, tenho 18 anos e moro na zona leste da Capital de SP. Atualmente curso Ciência da Computação na UNIP e busco uma oportunidade de estágio independentente da tecnologia e/ou faixa salarial. Acima de tudo tenho vontade de aprender e me consolidar no mercado que tanto admiro e amo. 
-
-  Sou minucioso e tentarei apresentar os meus projetos seguindo:
-
-- Clean Code 
-- Identação correta
-- Design Patterns (ainda meio confuso)
+Meu nome é Kaio Ruan, tenho 18 anos e moro na zona leste da Capital de SP. Atualmente curso Ciência da Computação na UNIP e busco uma oportunidade de estágio independente da tecnologia e/ou faixa salarial. Acima de tudo tenho vontade de aprender e me consolidar no mercado que tanto admiro e amo. 
 
 Conto com vocês que leram até aqui para me ajudar!
 
