@@ -15,7 +15,7 @@
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MTSKaioken&show_icons=true&theme=radical" alt="estatisticas" />
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTSKaioken&layout=compact" alt="estatisticas" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTSKaioken&layout=compact&theme=radical" alt="estatisticas" />
 </div>
 
 ## Detailed information
