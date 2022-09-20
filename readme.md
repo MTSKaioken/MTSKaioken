@@ -24,7 +24,7 @@
 * **Age**: 20
 * **Living in**: São Paulo - SP, Brazil
 * **Stack**: Java - Spring Boot - Vue.js - PHP - Laravel - Bootstrap - SQL
-* **University**: Computer Scientist, 6rd Semester at UNIP.
+* **University**: Computer Scientist, 6rd Semester at [UNIP](https://www.unip.br).
 
 <div align="center">
     <h1>Talk to me</h1>
