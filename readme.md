@@ -18,16 +18,17 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTSKaioken&layout=compact&theme=radical" alt="estatisticas" />
 </div>
 
-## Detailed information
+## Sobre
 
-* **Name**: Kaio Ruan
-* **Age**: 20
-* **Living in**: São Paulo - SP, Brazil
-* **Stack**: Java - Spring Boot - Vue.js - PHP - Laravel - Bootstrap - SQL
-* **University**: Computer Scientist, 6rd Semester at [UNIP](https://www.unip.br).
+* **Nome**: Kaio Ruan
+* **Idade**: 20
+* **Localidade**: Zona Leste de São Paulo - SP, Brasil
+* **Stack**: Java - Spring Boot - Vue.js - PHP - Laravel - Bootstrap - SQL - Oracle - Postgres
+* **Formação acadêmica**: Ciência da computação, 6º Semestre na [UNIP](https://www.unip.br).
+* **Trabalho atual**: Estágiario na [Support](https://supportsistemas.com.br)
 
 <div align="center">
-    <h1>Talk to me</h1>
+    <h1>Fale comigo!</h1>
     <a href="https://www.linkedin.com/in/mtskaioken/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>  
