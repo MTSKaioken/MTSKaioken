@@ -31,7 +31,7 @@
     <a href="https://www.linkedin.com/in/mtskaioken/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>  
-    <a href="https://www.instagram.com/mtskaioken/">
+    <a href="https://www.instagram.com/kaio.ruan73/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>  
     <a href="https://api.whatsapp.com/send?phone=5511981667180&text=HelloWorld!🖖">
