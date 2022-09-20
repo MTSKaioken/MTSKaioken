@@ -21,10 +21,10 @@
 ## Detailed information
 
 * **Name**: Kaio Ruan
-* **Age**: 19
+* **Age**: 20
 * **Living in**: São Paulo - SP, Brazil
-* **Stack**: Java - Spring Boot - PHP - Laravel - Bootstrap - SQL
-* **University**: Computer Scientist, 5rd Semester at UNIP.
+* **Stack**: Java - Spring Boot - Vue.js - PHP - Laravel - Bootstrap - SQL
+* **University**: Computer Scientist, 6rd Semester at UNIP.
 
 <div align="center">
     <h1>Talk to me</h1>
