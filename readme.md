@@ -25,7 +25,7 @@
 * **Localidade**: Zona Leste de São Paulo - SP, Brasil
 * **Stack**: Java - Spring Boot - Vue.js - PHP - Laravel - Bootstrap - SQL - Oracle - Postgres
 * **Formação acadêmica**: Ciência da computação, 7º Semestre na [UNIP](https://www.unip.br).
-* **Trabalho atual**: Estágiario na [Support](https://supportsistemas.com.br)
+* **Trabalho atual**: Programador na [Support](https://supportsistemas.com.br)
 
 <div align="center">
     <h1>Fale comigo!</h1>
