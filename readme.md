@@ -24,7 +24,7 @@
 * **Idade**: 20
 * **Localidade**: Zona Leste de São Paulo - SP, Brasil
 * **Stack**: Java - Spring Boot - Vue.js - PHP - Laravel - Bootstrap - SQL - Oracle - Postgres
-* **Formação acadêmica**: Ciência da computação, 6º Semestre na [UNIP](https://www.unip.br).
+* **Formação acadêmica**: Ciência da computação, 7º Semestre na [UNIP](https://www.unip.br).
 * **Trabalho atual**: Estágiario na [Support](https://supportsistemas.com.br)
 
 <div align="center">
@@ -32,13 +32,13 @@
     <a href="https://www.linkedin.com/in/mtskaioken/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>  
-    <a href="https://www.instagram.com/kaio.ruan73/">
+    <a href="https://www.instagram.com/mtskaioken/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>  
     <a href="https://api.whatsapp.com/send?phone=5511981667180&text=HelloWorld!🖖">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>
-    <a href="mailto:kaio.martins2@aluno.unip.br?subject=Contratado!">
+    <a href="mailto:kaio.martins2@aluno.unip.br?subject=Vim%20pelo%20github!">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
     </a>    
 </div>
