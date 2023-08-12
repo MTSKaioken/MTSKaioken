@@ -21,10 +21,10 @@
 ## Sobre
 
 * **Nome**: Kaio Ruan
-* **Idade**: 20
+* **Idade**: 21
 * **Localidade**: Zona Leste de São Paulo - SP, Brasil
 * **Stack**: Java - Spring Boot - Vue.js - PHP - Laravel - Bootstrap - SQL - Oracle - Postgres
-* **Formação acadêmica**: Ciência da computação, 7º Semestre na [UNIP](https://www.unip.br).
+* **Formação acadêmica**: Ciência da computação, 8º Semestre na [UNIP](https://www.unip.br).
 * **Trabalho atual**: Programador na [Support](https://supportsistemas.com.br)
 
 <div align="center">
